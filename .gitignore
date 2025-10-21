@@ -1,0 +1,14 @@
+# Pasta do Ambiente Virtual
+venv/
+__pycache__/
+
+# Arquivos temporários do macOS
+.DS_Store
+
+# Arquivos temporários do Python
+*.pyc
+*.pyo
+
+# Arquivos temporários do Whisper
+*.wav
+temp_audio.wav
